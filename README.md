@@ -40,4 +40,4 @@ https://docs.aws.amazon.com/pt_br/athena/latest/ug/what-is.html
 
 Assinatura do Responsável pelo Projeto:
 
-Carlos Alberto
+Carlos Alberto.
