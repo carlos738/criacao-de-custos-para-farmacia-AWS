@@ -4,10 +4,10 @@
 
 Data: 14/04/2024
 Empresa: Abstergo Industries 
-Responsável: Carlos Lino
+Responsável: Carlos Alberto
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Carlos Lino. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Carlos Alberto. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
@@ -15,7 +15,7 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 Etapa 1: 
 - Amazon Athena
 - Agilizar o processo de consultas no Banco de dados.
-- Serviço de consultas interativas que permite analisar dados no Amazon S3(e mais de 24 fontes de dados)usando o Sql padrão.
+- Serviço de consultas interativas que permite analisar dados no Amazon S3(e mais de 24 fontes de dados)usando o Sql padrão. O Amazon Athena faclita a execução interativa  de análises de dados usando o Apache Spark sem a necessidade de planejamento, configuração ou gerenciamento de recursos. 
 
 
 Etapa 2: 
@@ -36,7 +36,8 @@ A implementação de ferramentas na empresa Abstergo tem como esperado gerenciar
 ## Anexos
 Transforme seus relatórios de custo e uso da AWS em insights práticos com apenas alguns cliques com painéis de custos e uso= https://aws.amazon.com/pt/aws-cost-management/
 ##fonte =https://dev.to/leandcesar/uma-breve-visao-de-todos-os-217-servicos-da-aws-ae9
+https://docs.aws.amazon.com/pt_br/athena/latest/ug/what-is.html
 
 Assinatura do Responsável pelo Projeto:
 
-[Nome do Responsável pelo Projeto]
+Carlos Alberto
